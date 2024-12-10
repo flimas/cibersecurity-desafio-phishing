@@ -40,9 +40,9 @@ Os scripts estão organizados e podem ser executados de forma independente ou vi
 ```
 3. **Acesse o Menu (Bash ou Python):**
 ```
-  bash menu.sh
+  bash phishing.sh
   # ou
-  python3 menu.py
+  python3 phishing.py
 ```
 4. **Leia a Wiki:**
 Acesse os artigos diretamente no <a href="https://github.com/flimas/cibersecurity-desafio-phishing/wiki">GitHub Wiki</a>.
