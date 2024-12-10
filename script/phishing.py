@@ -3,7 +3,7 @@ import os
 
 def run_setup_environment():
     print("Executando configuração do ambiente...")
-    subprocess.run(["python3", "setup_environment.py"])
+    subprocess.run(["sh", "setup_environment.sh"])
 
 def run_phishing():
     print("Iniciando ataque de phishing...")
