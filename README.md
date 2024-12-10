@@ -31,8 +31,8 @@ Os scripts estão organizados e podem ser executados de forma independente ou vi
 ## 📥 Como Usar
 1. **Clone o Repositório:**
 ```
-  git clone https://github.com/seu-usuario/seu-repo.git
-  cd seu-repo
+  git clone https://github.com/flimas/cibersecurity-desafio-phishing.git
+  cd cibersecurity-desafio-phishing
 ```
 2. **Configure o Ambiente (apenas para Bash):**
 ```
